@@ -16,8 +16,3 @@ Feature: Banking Feature
             | Nikolay   | Nedyalkov | 1632     |
         And I click the submit button
         Then I validate the alert text
-
-
-    # Scenario: Opening Account
-    #     When I click on Bank Manager Login Button
-    #     Then I validate the page title
